@@ -1,12 +1,18 @@
 body {
-background-color: Gray;
+background-color: Thistle;
+border: 2px solid Gray;
 font-family: serif;
 margin-left: auto;
 margin-right: auto;
 max-width: 1024px;
 min-width: 256px;
 padding-top: 8px;
-padding-bottom: 24px;
-padding-left: 24px;
-padding-right: 24px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+html {
+  background: radial-gradient(circle, SkyBlue, SkyBlue 50%, LightCyan 50%, SkyBlue);
+  background-size: 8px 8px;
 }
