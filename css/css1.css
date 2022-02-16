@@ -1,6 +1,6 @@
 body {
-background-color: Thistle;
-border: 2px solid Gray;
+background-color: LightGreen;
+border: 2px solid Black;
 font-family: serif;
 margin-left: auto;
 margin-right: auto;
@@ -13,14 +13,14 @@ padding-right: 20px;
 }
 
 html {
-  background: radial-gradient(circle, SkyBlue, SkyBlue 50%, LightCyan 50%, SkyBlue);
+  background: radial-gradient(circle, SkyBlue, SkyBlue 30%, LightCyan 30%, Gray 20%, Thistle 20%, SkyBlue);
   background-size: 8px 8px;
 }
 
 /* Používá se pro element ul v elementu nav */
 nav ul {
   list-style-type: none;
-  background-color: #B577B5;
+  background-color: #bfffed;
   border: 4px solid #111111;
   border-radius: 10px;
   font-family: sans-serif;
